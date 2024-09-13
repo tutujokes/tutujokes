@@ -1,12 +1,12 @@
 <?php
 
-class Me {
+class Me 
+    {
     public $name = "Arthur Henrique";
     public $age = "22";
     public $skills = "Java Developer, SQL Database Management, Backend Developer";
     public $tech = "Linux, Git, Docker, Python, C, Java, SQL, PHP";
     public $extra = "x86_64 assembly, BrainFuck";
-
     private $secret = "Nothing Here I Swear...";
 
     public function __construct() {}
